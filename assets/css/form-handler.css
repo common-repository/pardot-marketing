@@ -1,0 +1,57 @@
+.pardotmarketing-form-handler-fields {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pardotmarketing-form-handler-input,
+.pardotmarketing-form-handler-select {
+  margin: 0;
+}
+
+.pardotmarketing-form-handler-button {
+  border-radius: 5px;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0.8em 2em;
+  transition: all 0.3s;
+}
+
+.pardotmarketing-form-handler-form-is-submitting {
+  pointer-events: none;
+}
+
+label.pardotmarketing-form-handler-field-error {
+  color: red;
+  line-height: 1.2;
+  margin-top: 5px;
+}
+
+.pardotmarketing-screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+.pardotmarketing-screen-reader-text:focus {
+  background-color: #eee;
+  clip: auto !important;
+  clip-path: none;
+  color: #444;
+  display: block;
+  font-size: 1em;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}

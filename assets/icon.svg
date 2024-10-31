@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="463px" height="289px" viewBox="0 0 463 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>cloud</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="56.8847514%" cy="15.9994069%" fx="56.8847514%" fy="15.9994069%" r="85.6985921%" gradientTransform="translate(0.568848,0.159994),scale(0.622127,1.000000),rotate(110.203098),translate(-0.568848,-0.159994)" id="radialGradient-1">
+            <stop stop-color="#5CB9F2" offset="0%"></stop>
+            <stop stop-color="#0068A8" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud" transform="translate(-1.000000, 0.000000)" fill="url(#radialGradient-1)" fill-rule="nonzero">
+            <path d="M376.158163,112.753867 C370.317124,112.753867 364.487784,113.334851 358.763723,114.492922 C354.447282,92.9497079 340.491958,74.5726633 320.898356,64.625743 C301.308653,54.6788217 278.236944,54.2616045 258.296311,63.4910685 C240.250702,13.7837579 185.326229,-11.8809365 135.618918,6.16467327 C85.9116074,24.210283 60.246914,79.1386551 78.2925237,128.842067 C34.7498864,130.218493 0.354829655,166.259023 1.00599985,209.817256 C1.66106903,253.37939 37.1245137,288.367129 80.6905469,288.437314 L376.158163,288.437314 C424.668411,288.437314 463.999886,249.109739 463.999886,200.595591 C463.999886,152.081443 424.668411,112.753867 376.158163,112.753867 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
